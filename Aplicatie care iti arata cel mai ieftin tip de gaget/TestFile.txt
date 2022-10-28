@@ -1,0 +1,4 @@
+SmartPhone,Samsung Galaxy S21 Ultra,5000,Emag
+SmartPhone,Samsung Galaxy S9 Ultra,2000,Emag
+SmartPhone,Samsung Galaxy S20 Ultra,4000,Emag
+SmartPhone,Samsung Galaxy S10 Ultra,3000,Emag
